@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-🌱 I’m currently learning JavaScript/TypeScript while refining my skils in Java and C++
-😄 Studying Computer Science at the Simon Fraser University, Canada
+🌱 I’m currently learning JavaScript/TypeScript while refining my skils in Java and C++ <br/>
+😄 Studying Computer Science at the Simon Fraser University, Canada <br/>
 <!--
 **Hooopla/Hooopla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
